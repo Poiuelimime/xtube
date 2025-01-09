@@ -1,6 +1,6 @@
 # XTube
 
-![XTube](LalkaTube.png)  
+<img src="LalkaTube.png" alt="XTube Logo" width="200"/>
 Простое приложение для просмотра видео с YouTube, интегрированное с YouTube API.
 
 ## Описание
@@ -17,6 +17,6 @@
 
 ## Скриншоты
 
-![YouTube Viewer Screenshot](Снимок экрана 2025-01-09 104215.png)  
+![Screenshot](Снимок-экрана-2025-01-09-104215.png)  
 *Главная страница приложения.*
 
